@@ -84,7 +84,7 @@
         <tr>
             <th rowspan=10>Round 1A</th>
             <td colspan=6></td>
-            <th>Qualified</th>
+            <th>Qualifid</th>
         </tr>
     </tbody>
 </table>
